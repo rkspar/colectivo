@@ -17,7 +17,7 @@ section {
   padding: 100px 0;
 }
 .bg-gray {
-  background-color: #B68A63;
+  background-color: #897C38;
 }
 .bg-dark {
   color: white;
@@ -615,7 +615,7 @@ aside.cta-quote span.quote {
 }
 .portfolio-carousel {
   padding: 0;
-  color: white;
+  color: #B68A63;
   background-color: #222222;
 }
 .portfolio-carousel .item {
@@ -723,7 +723,7 @@ aside.cta-quote span.quote {
   display: none;
 }
 .portfolio-modal .modal-content {
-  color: white;
+  color: #000;
   background: transparent;
   border-radius: 0;
   background-clip: border-box;
@@ -760,7 +760,7 @@ aside.cta-quote span.quote {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: white;
+  background-color: black;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -771,7 +771,7 @@ aside.cta-quote span.quote {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: white;
+  background-color: black;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
